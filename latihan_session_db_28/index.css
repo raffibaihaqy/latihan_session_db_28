@@ -1,0 +1,10 @@
+body{
+	background-image: url(zzz.jpg);
+	background-size: cover;
+}
+.log:hover{
+	background-color: maroon; 
+}
+.log{
+	color: #ffffff;
+}

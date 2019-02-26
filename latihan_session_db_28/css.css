@@ -1,0 +1,78 @@
+.container1{
+	width: 500px;
+	height: 100px;
+	margin: auto;
+	background-color: #57b847;
+	border-radius: 15px;
+	border-bottom-right-radius: 0px;
+	border-bottom-left-radius: 0px;
+	box-shadow: 3px 3px 2px 2px; 	
+}
+.container1 h2{
+	padding: 33px;
+	font-family: arial;
+	padding-left: 200px;
+	color: #ffffff;
+}
+.table{
+	width: 500px;
+	margin: auto;
+	height: 325px;
+	background-color: #ffffff;
+	border-radius: 15px;
+	border-top-left-radius: 0px;
+	border-top-right-radius: 0px; 
+	box-shadow: 2.75px 2px 2px 2px;
+}
+.apa{
+	padding-top: 35px;
+	padding-left: 150px;
+}
+table .usr{
+	border-radius: 20px;
+	font-weight: bold;
+	color: #000000;
+	height: 30px;
+	font-family: arial;
+	margin-right: 40%;
+}
+table .psr{
+	border-radius: 20px;
+	font-weight: bold;
+	color: #000000;
+	height: 30px;
+}
+table .btn{
+	border-radius: 20px;
+	width: 170px;
+	height: 30px;
+	background-color: #57b847;
+	font-family: arial;
+	font-weight: bold;
+	color: #ffffff;
+	margin-top: 30px;  
+}
+.btn:hover{
+	cursor: pointer;
+	background-color: #228b22;
+}
+.akun{
+	padding-top: 55px;
+	padding-left: 10px;
+	font-family: arial;
+}
+.reg ul li{
+	display: inline-block;
+	padding-left: 12px;
+}
+a{
+	text-decoration: none;
+}
+a:hover{
+	background-color: lightskyblue;
+	color: #ffffff;
+}
+body{
+	background-image: url(rubik.jpg);
+	background-size: cover;
+}
